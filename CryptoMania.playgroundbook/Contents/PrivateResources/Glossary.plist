@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Terms</key>
+	<dict>
+		<key>Avalanche Effect</key>
+		<dict>
+			<key>Definition</key>
+			<string>A Small Change in Input Results in a drastic change in Hash Output</string>
+		</dict>
+		<key>HMAC</key>
+		<dict>
+			<key>Definition</key>
+			<string>Hash Based Message Authentication.                                            It Uses a Key to sign the hashvalue which can be authenticated later</string>
+		</dict>
+		<key>Digest</key>
+		<dict>
+			<key>Definition</key>
+			<string>The Output of a One-Way Hash Function like SHA </string>
+		</dict>
+		<key>Public Key Cryptography</key>
+		<dict>
+			<key>Definition</key>
+			<string>A Cryptographic System which uses a pair of keys namely Public Key and Private Key to encypt and decrypt our Data.</string>
+		</dict>
+		<key>Generator Number</key>
+		<dict>
+			<key>Definition</key>
+			<string>A Small Prime number shared over the Public Network(Insecure Channel)</string>
+		</dict>
+		<key>DHKE</key>
+		<dict>
+			<key>Definition</key>
+			<string>Diffie-Hellman Key Exchange</string>
+		</dict>
+		<key>ECC</key>
+		<dict>
+			<key>Definition</key>
+			<string>Elliptic Curve Cryptography</string>
+		</dict>
+		<key>Salting</key>
+		<dict>
+			<key>Definition</key>
+			<string>Random Data that is used as an additional input to a one-way function that hashes data.</string>
+		</dict>
+		<key>Shared Secret</key>
+		<dict>
+			<key>Definition</key>
+			<string>A Piece of data only known to the parties invlolved shared in a secure communication</string>
+		</dict>
+		<key>Sealed Box Encryption</key>
+		<dict>
+			<key>Definition</key>
+			<string>A way of sending messages anonymously to a recipient given its public key and the reciever can decrypt these messages using its Private key</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
