@@ -20,6 +20,18 @@
 				<key>File</key>
 				<string>Chapters/Chapter1.playgroundchapter/Pages/Hashing.playgroundpage/ResultInfo.plist</string>
 			</dict>
+			<dict>
+				<key>File</key>
+				<string>Chapters/Chapter1.playgroundchapter/Pages/Introduction.playgroundpage/ResultInfo.plist</string>
+			</dict>
+			<dict>
+				<key>File</key>
+				<string>Chapters/Chapter1.playgroundchapter/Pages/PublicKey.playgroundpage/ResultInfo.plist</string>
+			</dict>
+			<dict>
+				<key>File</key>
+				<string>Chapters/Chapter1.playgroundchapter/Pages/PerformingECC.playgroundpage/ResultInfo.plist</string>
+			</dict>
 		</array>
 		<key>Modified</key>
 		<array>
